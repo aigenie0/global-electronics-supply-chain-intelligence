@@ -138,14 +138,30 @@ That analysis is outside the scope of this project.
 For now, the focus remains on understanding the underlying semiconductor supply network.
 
 ---
+## Pilot Milestone
 
+The initial pipeline was validated using monthly 2024 U.S. import data for memory integrated circuits under HS 854232.
+
+> The three largest reported supplier markets accounted for approximately 70.28% of U.S. memory-integrated-circuit import value in 2024.
+
+This early result suggests meaningful geographic concentration. It is a limited pilot covering one importing country, one semiconductor category, and one year. The finding will be tested across additional countries, component categories, and periods before any broader conclusions are made.
+
+---
 ## Project Status
 
+13th July, 2026:
 - [x] Project definition
 - [x] GitHub repository
 - [x] README
 - [x] MIT License
-- [ ] Snowflake architecture
+
+14th July, 2026:
+- [x] Snowflake architecture
+- [x] Initial data selection
+- [x] Pilot data loading
+- [x] First SQL analysis
+
+Pending:
 - [ ] Data-source selection
 - [ ] Data modeling
 - [ ] Data loading
