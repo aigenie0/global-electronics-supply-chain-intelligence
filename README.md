@@ -32,27 +32,27 @@ The analysis is designed for product leaders, supply-chain teams, strategy teams
 
 ### 1. Which countries hold the strongest positions in global semiconductor trade?
 
-Identify the countries leading semiconductor exports and measure how their position has changed over time.
+> Identify the countries leading semiconductor exports and measure how their position has changed over time.
 
 ### 2. Which semiconductor categories are most geographically concentrated?
 
-Determine whether specific component categories rely heavily on a small number of exporting countries.
+> Determine whether specific component categories rely heavily on a small number of exporting countries.
 
 ### 3. How dependent are major electronics-manufacturing hubs on key semiconductor suppliers?
 
-Measure import dependency across countries such as China, Vietnam, South Korea, Mexico, India, Japan, Taiwan, and the United States.
+> Measure import dependency across countries such as China, Vietnam, South Korea, Mexico, India, Japan, Taiwan, and the United States.
 
 ### 4. Is semiconductor sourcing becoming more diversified?
 
-Evaluate whether sourcing is spreading across more countries or whether dependency is simply shifting from one major supplier to another.
+> Evaluate whether sourcing is spreading across more countries or whether dependency is simply shifting from one major supplier to another.
 
 ### 5. Which semiconductor categories create the greatest exposure for consumer electronics?
 
-Identify categories relevant to monitors, TVs, computers, smartphones, and connected devices that show high supplier concentration or limited alternative sourcing.
+> Identify categories relevant to monitors, TVs, computers, smartphones, and connected devices that show high supplier concentration or limited alternative sourcing.
 
 ### 6. Which countries show the strongest potential for future sourcing diversification?
 
-Compare markets based on export growth, current scale, product-category breadth, trading relationships, and concentration risk.
+> Compare markets based on export growth, current scale, product-category breadth, trading relationships, and concentration risk.
 
 ---
 
