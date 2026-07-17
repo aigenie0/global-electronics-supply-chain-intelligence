@@ -5,7 +5,7 @@ USE WAREHOUSE SEMICONDUCTOR_WH;
 USE DATABASE SEMICONDUCTOR_SUPPLY_CHAIN_DB;
 
 
--- Populate the country dimension with reporter and supplier markets
+-- Populate country dimension with reporter and supplier markets
 
 MERGE INTO ANALYTICS.DIM_COUNTRY AS TARGET
 
